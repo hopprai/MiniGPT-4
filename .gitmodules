@@ -1,0 +1,3 @@
+[submodule "hoppr"]
+	path = hoppr
+	url = git@github.com:hopprai/ml_training.git
